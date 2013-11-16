@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:tinker/tinker-client.git
+[submodule "ui"]
+	path = ui
+	url = git@github.com:tinker/tinker-ui.git
+[submodule "sandbox"]
+	path = sandbox
+	url = https://github.com/tinker/tinker-sandbox.git
